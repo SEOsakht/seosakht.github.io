@@ -1,1 +1,0 @@
-# seosakht.github.io
