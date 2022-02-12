@@ -9,19 +9,15 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.seosakht.ir/prices/</loc>
-		<lastmod>2022-02-12T13:25:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.seosakht.ir/wp-content/uploads/seosakht-bg.webp</image:loc>
-			<image:caption><![CDATA[سئوساخت - طراحی، سئو و مدیریت وب سایت]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.seosakht.ir/page-speed-seo/</loc>
 		<lastmod>2022-02-12T13:32:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.seosakht.ir/wp-content/uploads/seosakht-bg.webp</image:loc>
 			<image:caption><![CDATA[سئوساخت - طراحی، سئو و مدیریت وب سایت]]></image:caption>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://www.seosakht.ir/prices/</loc>
+		<lastmod>2022-02-12T19:53:07+00:00</lastmod>
 	</url>
 </urlset>
